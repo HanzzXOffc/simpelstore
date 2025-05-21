@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.6.0",
+    "@whiskeysockets/baileys": "^6.17.16",
     "pino": "^8.0.0"
   },
   "scripts": {
